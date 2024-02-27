@@ -1,4 +1,4 @@
-# Facial Emotion Detection
+# Facial Emotion Detection System
 Facial Emotion Detection System
 
 Problem Definition
