@@ -21,8 +21,8 @@ How do we carry out research studies into the application of Artificial Emotiona
 How do we achieve an almost perfect performance (precision, recall, F1-Score, etc) that will qialify our work as deployment-ready
 
 ## Problem Formulation:
-Reliable and accurate identification of facial emotions.
-Gap in human-computer interaction.
+- Reliable and accurate identification of facial emotions.
+- Gap in human-computer interaction.
 
 ## About the Dataset
 The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'. Each of these folders has four subfolders:
