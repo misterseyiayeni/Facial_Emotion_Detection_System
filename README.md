@@ -20,11 +20,11 @@ How do we reliably source (clean) data and if messy, then perform EDA to make it
 How do we carry out research studies into the application of Artificial Emotional Intelligence and advance its cross-discipline interactions nad applications?
 How do we achieve an almost perfect performance (precision, recall, F1-Score, etc) that will qialify our work as deployment-ready
 
-## The problem formulation:
+## The Problem Formulation:
 Reliable and accurate identification of facial emotions.
 Gap in human-computer interaction.
 
-## About the dataset
+## About the Dataset
 The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'. Each of these folders has four subfolders:
 
 ‘happy’: Images of people who have happy facial expressions.
