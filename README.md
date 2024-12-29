@@ -38,7 +38,7 @@ I have appended images of the training and prediction processes:
 
 ![happy_faces_sample](https://github.com/user-attachments/assets/e5dfe908-ace6-42e8-adaf-f9418fcbe722)
 
-Sample of sad faces
+- Sample of sad faces
 ![sad_faces_sample](https://github.com/user-attachments/assets/b2e56cce-03ec-4f2c-88eb-1476fdaadbeb)
 
 - Sample of neutral faces
