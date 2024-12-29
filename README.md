@@ -34,56 +34,73 @@ The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'. Eac
 
 I have appended images of the training and prediction processes:
 
-Sample of happy faces
+- Sample of happy faces
+
 ![happy_faces_sample](https://github.com/user-attachments/assets/e5dfe908-ace6-42e8-adaf-f9418fcbe722)
 
 Sample of sad faces
 ![sad_faces_sample](https://github.com/user-attachments/assets/b2e56cce-03ec-4f2c-88eb-1476fdaadbeb)
 
-Sample of neutral faces
+- Sample of neutral faces
+
 ![neutral_faces_sample](https://github.com/user-attachments/assets/17e1f1fa-435b-4dc5-a84c-30003e9d1c17)
 
-Sample of surprised faces
+- Sample of surprised faces
+
 ![surprised_faces_sample](https://github.com/user-attachments/assets/86e8e2fa-0f14-46eb-bec7-cb2f606568f5)
 
-Distribution of training dataset
+- Distribution of training dataset
+
 ![train_distr](https://github.com/user-attachments/assets/462bcb6e-dc88-4807-90cb-8bbbbd4c580b)
 
-Distribution of test dataset
+- Distribution of test dataset
+
 ![test_distr](https://github.com/user-attachments/assets/823d19a1-078b-4fae-bee7-dafb86cbd6a3)
 
-Distribution of validation dataset
+- Distribution of validation dataset
+
 ![valid_distr](https://github.com/user-attachments/assets/feda6c86-7841-41f9-97ba-18428c60efc2)
 
-Training and validation accuracy for base model
+- Training and validation accuracy for base model
+
 ![train_val_accuracy_base_model](https://github.com/user-attachments/assets/5a3c35a0-9c02-4c25-b15d-67118faf9ed7)
 
-Training and validation accuracy for second model
+- Training and validation accuracy for second model
+
 ![train_val_accuracy_second_model](https://github.com/user-attachments/assets/f0d267e9-c0d1-4c7c-9b7e-3ff7ae3895f3)
 
-Training and validation accuracy for vgg16 model
+- Training and validation accuracy for vgg16 model
+
 ![train_val_accuracy_vgg16_model](https://github.com/user-attachments/assets/32d1ab80-f7fb-4c67-acd3-fcaedf906cc1)
 
-Training and validation accuracy for resnet model
+- Training and validation accuracy for resnet model
+
 ![train_val_accuracy_resnet_model](https://github.com/user-attachments/assets/c0777900-9180-42a6-af64-ba3f57d8e5a7)
 
 Training and validation accuracy for efficientnet model
+
 ![train_val_accuracy_efficientnet_model](https://github.com/user-attachments/assets/96cabcf3-5380-4f0a-8944-eaed415afbbe)
 
 Training and validation accuracy for complex model
+
 ![train_val_accuracy_complex_model](https://github.com/user-attachments/assets/a1bae75b-d2d3-4413-a221-4aad22aee810)
 
-Confusion matrix of final model
+- Confusion matrix of final model
+
 ![confusion_matrix_final_model](https://github.com/user-attachments/assets/985990c6-1ab1-43ee-b879-bcd63ae15a5a)
 
-Prediction with final model
+- Prediction with final model
+
 ![prediction_with_final_model](https://github.com/user-attachments/assets/76c4f737-5c72-4b6b-94d6-6049511e595b)
 
-Training and validation accuracy for final model
+- Training and validation accuracy for final model
+
 ![train_val_accuracy_final_model](https://github.com/user-attachments/assets/33ece21a-02e8-4c58-83a4-397d82c854bf)
 
-Second prediction with final model
+- Second prediction with final model
+
 ![second_prediction_with_best_model](https://github.com/user-attachments/assets/e6f64b99-bcf3-40ad-93b2-d1f09601ed90)
 
-Precision, recall, F1 of final model
+-  Precision, recall, F1 of final model
+
 ![precision_recall_f1_final_model](https://github.com/user-attachments/assets/ee9f0480-af3d-4a3c-8680-d90919deb0b5)
