@@ -13,7 +13,7 @@ CGI-enabled imaging: it can be used to read faces and project that into the scre
 Forensic investigation: in homicide cases, it can be used to estimate the last few minutes, seconds, even possibly hours of victims involved
 
 ## Objective
-use Deep Learning and Artificial Intelligence techniques to Create a computer vision model that can accurately detect facial emotions. The model should be able to perform multi-class classification on images of facial expressions, to classify the expressions according to the associated emotion.
+Use Deep Learning and Artificial Intelligence techniques to Create a computer vision model that can accurately detect facial emotions. The model should be able to perform multi-class classification on images of facial expressions, to classify the expressions according to the associated emotion.
 The key questions:
 
 How do we reliably source (clean) data and if messy, then perform EDA to make it clean?
